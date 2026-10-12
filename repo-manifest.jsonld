@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/falconry/falcon/commit/05b35ee93d10f616fbdd192bbf860ec9e59f9e14",
       "git:hexsha": "05b35ee93d10f616fbdd192bbf860ec9e59f9e14",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/falconry/falcon/commit/816283d45584a1eb96a5a4fda9a6ffb2b2779220",
